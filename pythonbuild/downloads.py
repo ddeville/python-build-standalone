@@ -341,7 +341,7 @@ DOWNLOADS = {
         "git_commit": "e3c3e9a2856124aa32b608632a52742d479eb7a9",
     },
     "uuid": {
-        "url": "https://sourceforge.net/projects/libuuid/files/libuuid-1.0.3.tar.gz",
+        "url": "https://github.com/indygreg/python-build-standalone/releases/download/20220227/libuuid-1.0.3.tar.gz",
         "size": 318256,
         "sha256": "46af3275291091009ad7f1b899de3d0cea0252737550e7919d17237997db5644",
         "version": "1.0.3",
